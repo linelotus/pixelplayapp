@@ -13,12 +13,12 @@ Inspired by **Fortnite-style avatars** and **Just Dance routines**, PixelPlay mo
 - *Stretch Features (if time allows):** Leaderboards & Lifestyle Challenges.  
 
 Tech Stack
-- **Frontend:** React Native (mobile) / React (web demo)  
+- **Frontend:**  React Response (web demo)  
 - **Backend:** Flask (Python REST API)  
-- **Database:** SQLite (MVP) or PostgreSQL (scalable option)  
-- **Styling:** TailwindCSS or Material UI  
+- **Database:** Monogo Atlas cloud version  
+- **Styling:** Bootstrap Material UI  
 - **Charts/Visuals:** Chart.js / Recharts  
-- **Video Playback:** React Native Video / HTML5 video embed  
+- **Video Playback:** React Video player / HTML5 video embed  
 - **Optional Motion Tracking:** TensorFlow.js PoseNet (future scope)  
 Prerequisites
 - Node.js & npm installed  
